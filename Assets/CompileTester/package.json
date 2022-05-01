@@ -1,0 +1,11 @@
+{
+  "name": "com.kanais7.unitycompiletester",
+  "displayName": "Unity Compile Tester",
+  "author": "kanais7",
+  "license": "MIT",
+  "version": "0.0.1",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.unity.scriptablebuildpipeline": "1.19.6"
+  }
+}
